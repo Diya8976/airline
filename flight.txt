@@ -1,0 +1,6 @@
+F101:UAE:England:50
+F102:UAE:USA:40
+F103:UAE:Canada:1
+F104:UAE:India:50
+F105:UAE:West Indies:40
+F106:UAE:Netherlands:2
